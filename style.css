@@ -397,3 +397,7 @@ body {
 .footer2 li a:hover {
   border-bottom: 1px solid #111;
 }
+
+ul {
+  list-style-type: none;
+}
